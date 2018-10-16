@@ -1,0 +1,9 @@
+build - webpack的配置文件
+code - 放置代码文件
+config - 项目参数配置的文件
+logs - 日志打印文件
+node_modules - 项目依赖模块
+public - 项目静态文件的入口 例如: public下的 demo.html文件, 可通过 localhost:3000/demo.html 访问
+static - 静态资源文件
+.babelrc - babel编译
+postcss.config.js - css后处理器配置
